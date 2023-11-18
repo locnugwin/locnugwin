@@ -2,6 +2,7 @@
 
 **Loc Nguyen (he/him/his)**
 
+- 💼 Incoming Software Engineering Intern @ [RentVision](https://www.rentvision.com/)
 - 🎓 Second-year Computer Science and Mathematics student @ University of Nebraska-Lincoln 
 - 🌱 I'm currently learning Java, HTML, CSS, JavaScript, and Python
 - 🌐 https://nugwin.net (WIP)

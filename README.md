@@ -1,6 +1,4 @@
-# Hello 👋
-
-**Loc Nguyen (he/him/his)**
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> Hello! I'm Loc.</h2>
 
 - 💼 Incoming Software Engineering Intern @ [RentVision](https://www.rentvision.com/)
 - 🎓 Second-year Computer Science and Mathematics student @ University of Nebraska-Lincoln 

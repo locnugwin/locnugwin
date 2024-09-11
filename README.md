@@ -3,6 +3,6 @@
 - 💼 Looking for Software Engineering opportunities | Previous Software Engineer Intern @ [RentVision](https://www.rentvision.com/)
 - 🎓 Third-year Computer Science and Mathematics student @ University of Nebraska-Lincoln 
 - 🌱 I'm currently learning React and Java
-- 🌐 Check out my [website](https://nugwin.net) to learn more about me!
+- 🌐 Check out my [website](https://nugwin.net) (under reconstruction) to learn more about me!
 - 📫 Email: [loc@nugwin.net](mailto:loc@nugwin.net)
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/locnugwin/)!

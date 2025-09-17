@@ -2,7 +2,7 @@
 
 - 💼 Looking for Summer 2026 Opportunities! | Previously @ [FCSAmerica](https://www.fcsamerica.com/) and [RentVision](https://www.rentvision.com/)
 - 🎓 Fourth-Year Computer Science and Mathematics student @ University of Nebraska-Lincoln 
-- 🌱 I'm currently learning React, TypeScript, and Flutter
+- 🌱 I'm currently learning React/React Native, TypeScript, and Flutter
 - 🌐 Check out my [website](https://nugwin.net) to learn more about me!
 - 📫 Email: [loc@nugwin.net](mailto:loc@nugwin.net)
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/locnugwin/)!

@@ -1,5 +1,5 @@
 # Hello, World! 👋
-I am a Developer Intern at Beavercreek Marketing and a Founding Engineer at Reach Test Prep. I am a current undergraduate student studying Computer Science and Mathematics at the **University of Nebraska-Lincoln**. My areas of interest are in software/application development.
+I am a Senior Developer Intern at Beavercreek Marketing and a Founding Engineer at Reach Test Prep. I am a current undergraduate student studying Computer Science and Mathematics at the **University of Nebraska-Lincoln**. My areas of interest are in software/application development.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/locnugwin) [![Tuta](https://img.shields.io/badge/Tuta-840010?style=for-the-badge&logo=Tutanota&logoColor=white)](mailto:loc@nugwin.net)
